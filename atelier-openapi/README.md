@@ -83,3 +83,14 @@ Vous pouvez importer `openapi.yaml` dans Bruno pour générer votre collection :
 requêtes viennent de votre propre contrat.
 
 N'écrivez pas les douze opérations avant de tester la première.
+
+
+
+
+### Utilisation du l'IA :
+
+- Aide au démarrage avec l'ia, car il y a beaucoup de document donc j'ai demandé à l'ia par où commencer et quel était le document dont on a besoin pour voir ce qu'il faut faire.
+- Aide pour comprendre la structure OpenAPI et la syntaxe YAML (pour city).
+- Aide pour comprendre comment bruno fonctionne avec localhost
+- Aide pour le Trips/search pour avoir le json dans bruno.
+- Demande à l'IA pour savoir si on devait tout recopier entre les différentes routes, conseil d'utiliser AllOF
